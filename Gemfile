@@ -2,7 +2,6 @@
 
 source 'https://rubygems.org'
 
-gem 'github-pages'
 # needed for Jekyll
 gem 'jekyll'
 gem 'webrick'
